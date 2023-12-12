@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi!
+
+```
+def annaboter
+  if self.lookingForAJob?
+    "I'm looking for a sick job where i can grow even more as a full stack developer 😌"
+  else
+    "No worries, I'm always trying to get better and better 🫡"
+end
+```
 
 <!--
 **annaboter/annaboter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
