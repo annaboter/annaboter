@@ -2,10 +2,10 @@
 
 ```
 def annaboter
-  if self.lookingForAJob?
-    "I'm looking for a sick job where i can grow even more as a full stack developer 😌"
+  if self.no_commits_in_a_long_time?
+    "I have a new arch nemesis which is BUG >:("
   else
-    "No worries, I'm always trying to get better and better 🫡"
+    "I am a woman in stem and I slay at coding"
 end
 ```
 
