@@ -3,7 +3,7 @@
 ```
 def annaboter
   if self.no_commits_in_a_long_time?
-    "I have a new arch nemesis which is BUG >:("
+    "I'm coding COBOL atm... Pray for me!"
   else
     "I am a woman in stem and I slay at coding"
 end
